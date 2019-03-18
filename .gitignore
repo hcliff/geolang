@@ -1,0 +1,8 @@
+# IDE
+.idea
+
+# binaries
+geolang
+
+# OSX
+.DS_Store

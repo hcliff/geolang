@@ -1,0 +1,4238 @@
+{
+    "meta": {
+        "code": 200,
+        "requestId": "5c61a8314434b95f05c1dc73"
+    },
+    "response": {
+        "confident": false,
+        "geocode": {
+            "feature": {
+                "cc": "DE",
+                "displayName": "Berlin, Germany",
+                "geometry": {
+                    "bounds": {
+                        "ne": {
+                            "lat": 52.675075983544005,
+                            "lng": 13.757081929101975
+                        },
+                        "sw": {
+                            "lat": 52.33858497674041,
+                            "lng": 13.088542091271195
+                        }
+                    },
+                    "center": {
+                        "lat": 52.52437,
+                        "lng": 13.41053
+                    }
+                },
+                "highlightedName": "<b>Berlin</b>, Germany",
+                "id": "geonameid:2950159",
+                "longId": "72057594040878095",
+                "matchedName": "Berlin, Germany",
+                "name": "Berlin",
+                "slug": "berlin",
+                "woeType": 7
+            },
+            "parents": [],
+            "what": "",
+            "where": "berlin"
+        },
+        "venues": [
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/brewery_",
+                            "suffix": ".png"
+                        },
+                        "id": "50327c8591d4c4b30a586d5d",
+                        "name": "Brewery",
+                        "pluralName": "Breweries",
+                        "primary": true,
+                        "shortName": "Brewery"
+                    }
+                ],
+                "hasPerk": false,
+                "id": "581f5519fb482d7efa744e4a",
+                "location": {
+                    "address": "Karl-Liebknecht-Str. 13",
+                    "cc": "DE",
+                    "city": "Berlin",
+                    "country": "Deutschland",
+                    "formattedAddress": [
+                        "Karl-Liebknecht-Str. 13",
+                        "10178 Berlin",
+                        "Deutschland"
+                    ],
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.52267969315401,
+                            "lng": 13.407351460720852
+                        }
+                    ],
+                    "lat": 52.52267969315401,
+                    "lng": 13.407351460720852,
+                    "neighborhood": "Mitte",
+                    "postalCode": "10178",
+                    "state": "Berlin"
+                },
+                "name": "Brauhaus Lemke",
+                "referralId": "v-1549903921"
+            },
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/german_",
+                            "suffix": ".png"
+                        },
+                        "id": "56aa371ce4b08b9a8d573572",
+                        "name": "Bavarian Restaurant",
+                        "pluralName": "Bavarian Restaurants",
+                        "primary": true,
+                        "shortName": "Bavarian"
+                    }
+                ],
+                "hasPerk": false,
+                "id": "4ead71856da1a0e3a47abe19",
+                "location": {
+                    "address": "Karl-Liebknecht-Str. 30",
+                    "cc": "DE",
+                    "city": "Berlin",
+                    "country": "Deutschland",
+                    "formattedAddress": [
+                        "Karl-Liebknecht-Str. 30",
+                        "10178 Berlin",
+                        "Deutschland"
+                    ],
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.52470760322904,
+                            "lng": 13.413700461387634
+                        }
+                    ],
+                    "lat": 52.52470760322904,
+                    "lng": 13.413700461387634,
+                    "postalCode": "10178",
+                    "state": "Berlin"
+                },
+                "name": "Hofbräuhaus Berlin",
+                "referralId": "v-1549903921"
+            },
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d1c4941735",
+                        "name": "Restaurant",
+                        "pluralName": "Restaurants",
+                        "primary": true,
+                        "shortName": "Restaurant"
+                    }
+                ],
+                "hasPerk": false,
+                "id": "4b3a0ee2f964a5209c6025e3",
+                "location": {
+                    "address": "Alexanderplatz 7",
+                    "cc": "DE",
+                    "city": "Berlin",
+                    "country": "Deutschland",
+                    "formattedAddress": [
+                        "Alexanderplatz 7",
+                        "10178 Berlin",
+                        "Deutschland"
+                    ],
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.52330659463495,
+                            "lng": 13.413174455169365
+                        }
+                    ],
+                    "lat": 52.52330659463495,
+                    "lng": 13.413174455169365,
+                    "postalCode": "10178",
+                    "state": "Berlin"
+                },
+                "name": "Spagos Restaurant, Bar & Lounge",
+                "referralId": "v-1549903921"
+            },
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d11b941735",
+                        "name": "Pub",
+                        "pluralName": "Pubs",
+                        "primary": true,
+                        "shortName": "Pub"
+                    }
+                ],
+                "hasPerk": false,
+                "id": "5963d96242d8c238027ead6e",
+                "location": {
+                    "address": "Boxhagener Str. 110",
+                    "cc": "DE",
+                    "city": "Berlin",
+                    "country": "Deutschland",
+                    "crossStreet": "Simon-Dach-Str.",
+                    "formattedAddress": [
+                        "Boxhagener Str. 110 (Simon-Dach-Str.)",
+                        "10245 Berlin",
+                        "Deutschland"
+                    ],
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.513074529751556,
+                            "lng": 13.457070711506269
+                        }
+                    ],
+                    "lat": 52.513074529751556,
+                    "lng": 13.457070711506269,
+                    "neighborhood": "Friedrichshain, Berlin",
+                    "postalCode": "10245",
+                    "state": "Berlin"
+                },
+                "name": "Protokoll",
+                "referralId": "v-1549903921",
+                "venuePage": {
+                    "id": "436434294"
+                }
+            },
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                            "suffix": ".png"
+                        },
+                        "id": "56aa371ce4b08b9a8d57356c",
+                        "name": "Beer Bar",
+                        "pluralName": "Beer Bars",
+                        "primary": true,
+                        "shortName": "Beer Bar"
+                    }
+                ],
+                "hasPerk": false,
+                "id": "56069b45498ee7b98431e3b3",
+                "location": {
+                    "address": "Ackerstr. 29",
+                    "cc": "DE",
+                    "city": "Berlin",
+                    "country": "Deutschland",
+                    "formattedAddress": [
+                        "Ackerstr. 29",
+                        "10115 Berlin",
+                        "Deutschland"
+                    ],
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.53280111922482,
+                            "lng": 13.395788669586182
+                        }
+                    ],
+                    "lat": 52.53280111922482,
+                    "lng": 13.395788669586182,
+                    "postalCode": "10115",
+                    "state": "Berlin"
+                },
+                "name": "BrewDog",
+                "referralId": "v-1549903921"
+            },
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_rockclub_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d1e9931735",
+                        "name": "Rock Club",
+                        "pluralName": "Rock Clubs",
+                        "primary": true,
+                        "shortName": "Rock Club"
+                    }
+                ],
+                "hasPerk": false,
+                "id": "4adcda8df964a520724a21e3",
+                "location": {
+                    "address": "Revaler Str. 99",
+                    "cc": "DE",
+                    "city": "Berlin",
+                    "country": "Deutschland",
+                    "formattedAddress": [
+                        "Revaler Str. 99",
+                        "10245 Berlin",
+                        "Deutschland"
+                    ],
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.507224219612304,
+                            "lng": 13.451788679881309
+                        }
+                    ],
+                    "lat": 52.507224219612304,
+                    "lng": 13.451788679881309,
+                    "neighborhood": "Boxhagener Kiez",
+                    "postalCode": "10245",
+                    "state": "Berlin"
+                },
+                "name": "Astra Kulturhaus",
+                "referralId": "v-1549903921"
+            },
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/nightclub_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d11f941735",
+                        "name": "Nightclub",
+                        "pluralName": "Nightclubs",
+                        "primary": true,
+                        "shortName": "Nightclub"
+                    }
+                ],
+                "hasPerk": false,
+                "id": "4adcda7af964a520fc4621e3",
+                "location": {
+                    "address": "Köpenicker Str. 70",
+                    "cc": "DE",
+                    "city": "Berlin",
+                    "country": "Deutschland",
+                    "crossStreet": "Michaelkirchstr.",
+                    "formattedAddress": [
+                        "Köpenicker Str. 70 (Michaelkirchstr.)",
+                        "10179 Berlin",
+                        "Deutschland"
+                    ],
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.510605658422215,
+                            "lng": 13.420207500457764
+                        }
+                    ],
+                    "lat": 52.510605658422215,
+                    "lng": 13.420207500457764,
+                    "postalCode": "10179",
+                    "state": "Berlin"
+                },
+                "name": "Tresor",
+                "referralId": "v-1549903921"
+            },
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d11b941735",
+                        "name": "Pub",
+                        "pluralName": "Pubs",
+                        "primary": true,
+                        "shortName": "Pub"
+                    }
+                ],
+                "hasPerk": false,
+                "id": "4fb36676e4b034ff672593e3",
+                "location": {
+                    "address": "Friedrichstr. 128",
+                    "cc": "DE",
+                    "city": "Berlin",
+                    "country": "Deutschland",
+                    "crossStreet": "Claire-Waldoff-Str.",
+                    "formattedAddress": [
+                        "Friedrichstr. 128 (Claire-Waldoff-Str.)",
+                        "10117 Berlin",
+                        "Deutschland"
+                    ],
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.52529508604056,
+                            "lng": 13.387141227722168
+                        }
+                    ],
+                    "lat": 52.52529508604056,
+                    "lng": 13.387141227722168,
+                    "neighborhood": "Mitte",
+                    "postalCode": "10117",
+                    "state": "Berlin"
+                },
+                "name": "Hackendahl",
+                "referralId": "v-1549903921"
+            },
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d11e941735",
+                        "name": "Cocktail Bar",
+                        "pluralName": "Cocktail Bars",
+                        "primary": true,
+                        "shortName": "Cocktail"
+                    }
+                ],
+                "hasPerk": false,
+                "id": "52ea169411d28bebe4d114a1",
+                "location": {
+                    "address": "Budapester Str. 40",
+                    "cc": "DE",
+                    "city": "Berlin",
+                    "country": "Deutschland",
+                    "formattedAddress": [
+                        "Budapester Str. 40",
+                        "10787 Berlin",
+                        "Deutschland"
+                    ],
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.50559707327734,
+                            "lng": 13.337230682373047
+                        }
+                    ],
+                    "lat": 52.50559707327734,
+                    "lng": 13.337230682373047,
+                    "postalCode": "10787",
+                    "state": "Berlin"
+                },
+                "name": "Monkey Bar",
+                "referralId": "v-1549903921",
+                "venuePage": {
+                    "id": "77625043"
+                }
+            },
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d116941735",
+                        "name": "Bar",
+                        "pluralName": "Bars",
+                        "primary": true,
+                        "shortName": "Bar"
+                    }
+                ],
+                "hasPerk": false,
+                "id": "4ba7f702f964a52075c239e3",
+                "location": {
+                    "address": "Mariannenstr. 26a",
+                    "cc": "DE",
+                    "city": "Berlin",
+                    "country": "Deutschland",
+                    "crossStreet": "Paul-Linke-Ufer",
+                    "formattedAddress": [
+                        "Mariannenstr. 26a (Paul-Linke-Ufer)",
+                        "10999 Berlin",
+                        "Deutschland"
+                    ],
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.49655103994183,
+                            "lng": 13.420146567574358
+                        }
+                    ],
+                    "lat": 52.49655103994183,
+                    "lng": 13.420146567574358,
+                    "postalCode": "10999",
+                    "state": "Berlin"
+                },
+                "name": "Das Hotel",
+                "referralId": "v-1549903921"
+            },
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                            "suffix": ".png"
+                        },
+                        "id": "56aa371ce4b08b9a8d57356c",
+                        "name": "Beer Bar",
+                        "pluralName": "Beer Bars",
+                        "primary": true,
+                        "shortName": "Beer Bar"
+                    }
+                ],
+                "hasPerk": false,
+                "id": "57ec9ab7498e1648f157c4ef",
+                "location": {
+                    "address": "Torstr. 102",
+                    "cc": "DE",
+                    "city": "Berlin",
+                    "country": "Deutschland",
+                    "formattedAddress": [
+                        "Torstr. 102",
+                        "10119 Berlin",
+                        "Deutschland"
+                    ],
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.52978597071602,
+                            "lng": 13.403926990842765
+                        }
+                    ],
+                    "lat": 52.52978597071602,
+                    "lng": 13.403926990842765,
+                    "neighborhood": "Mitte",
+                    "postalCode": "10119",
+                    "state": "Berlin"
+                },
+                "name": "Mikkeller Bar",
+                "referralId": "v-1549903921"
+            },
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/brewery_",
+                            "suffix": ".png"
+                        },
+                        "id": "50327c8591d4c4b30a586d5d",
+                        "name": "Brewery",
+                        "pluralName": "Breweries",
+                        "primary": true,
+                        "shortName": "Brewery"
+                    }
+                ],
+                "hasPerk": false,
+                "id": "575582b5498ea375c57d504f",
+                "location": {
+                    "address": "Schöneberger Str. 16",
+                    "cc": "DE",
+                    "city": "Berlin",
+                    "country": "Deutschland",
+                    "formattedAddress": [
+                        "Schöneberger Str. 16",
+                        "10963 Berlin",
+                        "Deutschland"
+                    ],
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.50007847969667,
+                            "lng": 13.373526334762573
+                        }
+                    ],
+                    "lat": 52.50007847969667,
+                    "lng": 13.373526334762573,
+                    "neighborhood": "Viktoriakiez",
+                    "postalCode": "10963",
+                    "state": "Berlin"
+                },
+                "name": "BRŁO Brwhouse",
+                "referralId": "v-1549903921"
+            },
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d1c4941735",
+                        "name": "Restaurant",
+                        "pluralName": "Restaurants",
+                        "primary": true,
+                        "shortName": "Restaurant"
+                    }
+                ],
+                "hasPerk": false,
+                "id": "5a6f557389e4906a1487e680",
+                "location": {
+                    "address": "Karl-Liebknecht-Str. 13",
+                    "cc": "DE",
+                    "city": "Berlin",
+                    "country": "Deutschland",
+                    "formattedAddress": [
+                        "Karl-Liebknecht-Str. 13",
+                        "10178 Berlin",
+                        "Deutschland"
+                    ],
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.52224860815297,
+                            "lng": 13.408036355819718
+                        }
+                    ],
+                    "lat": 52.52224860815297,
+                    "lng": 13.408036355819718,
+                    "neighborhood": "Mitte",
+                    "postalCode": "10178",
+                    "state": "Berlin"
+                },
+                "name": "THE REED",
+                "referralId": "v-1549903921"
+            },
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/nightclub_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d11f941735",
+                        "name": "Nightclub",
+                        "pluralName": "Nightclubs",
+                        "primary": true,
+                        "shortName": "Nightclub"
+                    }
+                ],
+                "hasPerk": false,
+                "id": "4ee24702f9f47646d7b2785f",
+                "location": {
+                    "address": "Sonnenalle 221",
+                    "cc": "DE",
+                    "city": "Berlin",
+                    "country": "Deutschland",
+                    "formattedAddress": [
+                        "Sonnenalle 221",
+                        "12059 Berlin",
+                        "Deutschland"
+                    ],
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.476358549402846,
+                            "lng": 13.457623554055461
+                        }
+                    ],
+                    "lat": 52.476358549402846,
+                    "lng": 13.457623554055461,
+                    "postalCode": "12059",
+                    "state": "Berlin"
+                },
+                "name": "Griessmühle",
+                "referralId": "v-1549903921"
+            },
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/nightclub_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d11f941735",
+                        "name": "Nightclub",
+                        "pluralName": "Nightclubs",
+                        "primary": true,
+                        "shortName": "Nightclub"
+                    }
+                ],
+                "hasPerk": false,
+                "id": "4aeca2a8f964a520b6c921e3",
+                "location": {
+                    "address": "Ritterstr. 26",
+                    "cc": "DE",
+                    "city": "Berlin",
+                    "country": "Deutschland",
+                    "crossStreet": "Lobeckstr.",
+                    "formattedAddress": [
+                        "Ritterstr. 26 (Lobeckstr.)",
+                        "10969 Berlin",
+                        "Deutschland"
+                    ],
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.50282340294553,
+                            "lng": 13.40804611989337
+                        }
+                    ],
+                    "lat": 52.50282340294553,
+                    "lng": 13.40804611989337,
+                    "postalCode": "10969",
+                    "state": "Berlin"
+                },
+                "name": "Ritter Butzke",
+                "referralId": "v-1549903921"
+            },
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/breakfast_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d143941735",
+                        "name": "Breakfast Spot",
+                        "pluralName": "Breakfast Spots",
+                        "primary": true,
+                        "shortName": "Breakfast"
+                    }
+                ],
+                "hasPerk": false,
+                "id": "586240912eb979748a7ec034",
+                "location": {
+                    "address": "Rosenthaler Str. 1",
+                    "cc": "DE",
+                    "city": "Berlin",
+                    "country": "Deutschland",
+                    "formattedAddress": [
+                        "Rosenthaler Str. 1",
+                        "10119 Berlin",
+                        "Deutschland"
+                    ],
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.52948102523397,
+                            "lng": 13.401606834287564
+                        }
+                    ],
+                    "lat": 52.52948102523397,
+                    "lng": 13.401606834287564,
+                    "postalCode": "10119",
+                    "state": "Berlin"
+                },
+                "name": "Commonground",
+                "referralId": "v-1549903921",
+                "venuePage": {
+                    "id": "393726378"
+                }
+            },
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                            "suffix": ".png"
+                        },
+                        "id": "56aa371be4b08b9a8d573538",
+                        "name": "Theme Restaurant",
+                        "pluralName": "Theme Restaurants",
+                        "primary": true,
+                        "shortName": "Theme Restaurant"
+                    }
+                ],
+                "hasPerk": false,
+                "id": "4bc57a696936952133238488",
+                "location": {
+                    "address": "Kurfürstendamm 224",
+                    "cc": "DE",
+                    "city": "Berlin",
+                    "country": "Deutschland",
+                    "crossStreet": "Meinekestr.",
+                    "formattedAddress": [
+                        "Kurfürstendamm 224 (Meinekestr.)",
+                        "10719 Berlin",
+                        "Deutschland"
+                    ],
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.50309189537848,
+                            "lng": 13.329379434935618
+                        }
+                    ],
+                    "lat": 52.50309189537848,
+                    "lng": 13.329379434935618,
+                    "postalCode": "10719",
+                    "state": "Berlin"
+                },
+                "name": "Hard Rock Cafe",
+                "referralId": "v-1549903921"
+            },
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d116941735",
+                        "name": "Bar",
+                        "pluralName": "Bars",
+                        "primary": true,
+                        "shortName": "Bar"
+                    }
+                ],
+                "hasPerk": false,
+                "id": "4b2b4426f964a52077b524e3",
+                "location": {
+                    "address": "Brunnenstr 197-198",
+                    "cc": "DE",
+                    "city": "Berlin",
+                    "country": "Deutschland",
+                    "formattedAddress": [
+                        "Brunnenstr 197-198",
+                        "10119 Berlin",
+                        "Deutschland"
+                    ],
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.530030416844305,
+                            "lng": 13.400964168478575
+                        }
+                    ],
+                    "lat": 52.530030416844305,
+                    "lng": 13.400964168478575,
+                    "postalCode": "10119",
+                    "state": "Berlin"
+                },
+                "name": "Mein Haus am See",
+                "referralId": "v-1549903921"
+            },
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/nightclub_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d11f941735",
+                        "name": "Nightclub",
+                        "pluralName": "Nightclubs",
+                        "primary": true,
+                        "shortName": "Nightclub"
+                    }
+                ],
+                "hasPerk": false,
+                "id": "4b4f7f91f964a520ff0827e3",
+                "location": {
+                    "address": "Alt-Stralau 70",
+                    "cc": "DE",
+                    "city": "Berlin",
+                    "country": "Deutschland",
+                    "formattedAddress": [
+                        "Alt-Stralau 70",
+                        "10245 Berlin",
+                        "Deutschland"
+                    ],
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.49731337512296,
+                            "lng": 13.465170237335942
+                        }
+                    ],
+                    "lat": 52.49731337512296,
+                    "lng": 13.465170237335942,
+                    "postalCode": "10245",
+                    "state": "Berlin"
+                },
+                "name": "Salon zur wilden Renate",
+                "referralId": "v-1549903921"
+            },
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/beergarden_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d117941735",
+                        "name": "Beer Garden",
+                        "pluralName": "Beer Gardens",
+                        "primary": true,
+                        "shortName": "Beer Garden"
+                    }
+                ],
+                "hasPerk": false,
+                "id": "56fbc546498e4b3e5ba1f513",
+                "location": {
+                    "address": "SXF Airport",
+                    "cc": "DE",
+                    "city": "Schönefeld",
+                    "country": "Deutschland",
+                    "formattedAddress": [
+                        "SXF Airport",
+                        "12529 Schönefeld",
+                        "Deutschland"
+                    ],
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.388740071686044,
+                            "lng": 13.516946448948334
+                        }
+                    ],
+                    "lat": 52.388740071686044,
+                    "lng": 13.516946448948334,
+                    "postalCode": "12529",
+                    "state": "Brandenburg"
+                },
+                "name": "Die Almhütte",
+                "referralId": "v-1549903921"
+            },
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_rockclub_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d1e9931735",
+                        "name": "Rock Club",
+                        "pluralName": "Rock Clubs",
+                        "primary": true,
+                        "shortName": "Rock Club"
+                    }
+                ],
+                "hasPerk": false,
+                "id": "587a82452b04f82f1b70eb29",
+                "location": {
+                    "address": "Am Flutgraben 2",
+                    "cc": "DE",
+                    "city": "Berlin",
+                    "country": "Deutschland",
+                    "formattedAddress": [
+                        "Am Flutgraben 2",
+                        "12435 Berlin",
+                        "Deutschland"
+                    ],
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.4967329555376,
+                            "lng": 13.451533799509587
+                        }
+                    ],
+                    "lat": 52.4967329555376,
+                    "lng": 13.451533799509587,
+                    "postalCode": "12435",
+                    "state": "Berlin"
+                },
+                "name": "Festsaal Kreuzberg",
+                "referralId": "v-1549903921"
+            },
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d116941735",
+                        "name": "Bar",
+                        "pluralName": "Bars",
+                        "primary": true,
+                        "shortName": "Bar"
+                    }
+                ],
+                "hasPerk": false,
+                "id": "4c2113f313c00f47586785de",
+                "location": {
+                    "address": "Pücklerstr. 33",
+                    "cc": "DE",
+                    "city": "Berlin",
+                    "country": "Deutschland",
+                    "formattedAddress": [
+                        "Pücklerstr. 33",
+                        "10997 Berlin",
+                        "Deutschland"
+                    ],
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.5022542722616,
+                            "lng": 13.430717849669797
+                        }
+                    ],
+                    "lat": 52.5022542722616,
+                    "lng": 13.430717849669797,
+                    "postalCode": "10997",
+                    "state": "Berlin"
+                },
+                "name": "Lerchen und Eulen",
+                "referralId": "v-1549903921"
+            },
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d11e941735",
+                        "name": "Cocktail Bar",
+                        "pluralName": "Cocktail Bars",
+                        "primary": true,
+                        "shortName": "Cocktail"
+                    }
+                ],
+                "hasPerk": false,
+                "id": "5a7454ce6f706a38005806cf",
+                "location": {
+                    "address": "Krausnickstr. 1",
+                    "cc": "DE",
+                    "city": "Berlin",
+                    "country": "Deutschland",
+                    "crossStreet": "Oranienburger Str.",
+                    "formattedAddress": [
+                        "Krausnickstr. 1 (Oranienburger Str.)",
+                        "10115 Berlin",
+                        "Deutschland"
+                    ],
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.524365484525525,
+                            "lng": 13.395541996018128
+                        }
+                    ],
+                    "lat": 52.524365484525525,
+                    "lng": 13.395541996018128,
+                    "neighborhood": "Mitte",
+                    "postalCode": "10115",
+                    "state": "Berlin"
+                },
+                "name": "Mr. Susan",
+                "referralId": "v-1549903921"
+            },
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/karaoke_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d120941735",
+                        "name": "Karaoke Bar",
+                        "pluralName": "Karaoke Bars",
+                        "primary": true,
+                        "shortName": "Karaoke"
+                    }
+                ],
+                "hasPerk": false,
+                "id": "4adcda78f964a520374621e3",
+                "location": {
+                    "address": "Warschauer Str. 34",
+                    "cc": "DE",
+                    "city": "Berlin",
+                    "country": "Deutschland",
+                    "formattedAddress": [
+                        "Warschauer Str. 34",
+                        "10243 Berlin",
+                        "Deutschland"
+                    ],
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.50515331539783,
+                            "lng": 13.448398407889163
+                        }
+                    ],
+                    "lat": 52.50515331539783,
+                    "lng": 13.448398407889163,
+                    "postalCode": "10243",
+                    "state": "Berlin"
+                },
+                "name": "Monster Ronson's Ichiban Karaoke",
+                "referralId": "v-1549903921"
+            },
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                            "suffix": ".png"
+                        },
+                        "id": "56aa371ce4b08b9a8d57356c",
+                        "name": "Beer Bar",
+                        "pluralName": "Beer Bars",
+                        "primary": true,
+                        "shortName": "Beer Bar"
+                    }
+                ],
+                "hasPerk": false,
+                "id": "57b8a66ccd10ab004e256f6c",
+                "location": {
+                    "address": "Flughafenstr. 49",
+                    "cc": "DE",
+                    "city": "Berlin",
+                    "country": "Deutschland",
+                    "crossStreet": "Hermannstr.",
+                    "formattedAddress": [
+                        "Flughafenstr. 49 (Hermannstr.)",
+                        "12053 Berlin",
+                        "Deutschland"
+                    ],
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.48070840798713,
+                            "lng": 13.426280544716859
+                        }
+                    ],
+                    "lat": 52.48070840798713,
+                    "lng": 13.426280544716859,
+                    "neighborhood": "Schillerkiez",
+                    "postalCode": "12053",
+                    "state": "Berlin"
+                },
+                "name": "Muted Horn",
+                "referralId": "v-1549903921",
+                "venuePage": {
+                    "id": "329830392"
+                }
+            },
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d116941735",
+                        "name": "Bar",
+                        "pluralName": "Bars",
+                        "primary": true,
+                        "shortName": "Bar"
+                    }
+                ],
+                "hasPerk": false,
+                "id": "4adcda79f964a520b44621e3",
+                "location": {
+                    "address": "Oranienstr. 34",
+                    "cc": "DE",
+                    "city": "Berlin",
+                    "country": "Deutschland",
+                    "formattedAddress": [
+                        "Oranienstr. 34",
+                        "10999 Berlin",
+                        "Deutschland"
+                    ],
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.50160763417674,
+                            "lng": 13.418269755829378
+                        }
+                    ],
+                    "lat": 52.50160763417674,
+                    "lng": 13.418269755829378,
+                    "postalCode": "10999",
+                    "state": "Berlin"
+                },
+                "name": "Luzia",
+                "referralId": "v-1549903921"
+            },
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/german_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d10d941735",
+                        "name": "German Restaurant",
+                        "pluralName": "German Restaurants",
+                        "primary": true,
+                        "shortName": "German"
+                    }
+                ],
+                "hasPerk": false,
+                "id": "4be303d0d27a20a116ff905b",
+                "location": {
+                    "address": "Charlottenstr. 55",
+                    "cc": "DE",
+                    "city": "Berlin",
+                    "country": "Deutschland",
+                    "formattedAddress": [
+                        "Charlottenstr. 55",
+                        "10117 Berlin",
+                        "Deutschland"
+                    ],
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.513990106984444,
+                            "lng": 13.39100122726925
+                        }
+                    ],
+                    "lat": 52.513990106984444,
+                    "lng": 13.39100122726925,
+                    "postalCode": "10117",
+                    "state": "Berlin"
+                },
+                "name": "Augustiner am Gendarmenmarkt",
+                "referralId": "v-1549903921"
+            },
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/sportsbar_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d11d941735",
+                        "name": "Sports Bar",
+                        "pluralName": "Sports Bars",
+                        "primary": true,
+                        "shortName": "Sports Bar"
+                    }
+                ],
+                "hasPerk": false,
+                "id": "4b2ccbb3f964a52057c924e3",
+                "location": {
+                    "address": "Rosa-Luxemburg-Str. 41",
+                    "cc": "DE",
+                    "city": "Berlin",
+                    "country": "Deutschland",
+                    "formattedAddress": [
+                        "Rosa-Luxemburg-Str. 41",
+                        "10178 Berlin",
+                        "Deutschland"
+                    ],
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.526848605336326,
+                            "lng": 13.410811298726422
+                        }
+                    ],
+                    "lat": 52.526848605336326,
+                    "lng": 13.410811298726422,
+                    "postalCode": "10178",
+                    "state": "Berlin"
+                },
+                "name": "Belushi's",
+                "referralId": "v-1549903921"
+            },
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d11e941735",
+                        "name": "Cocktail Bar",
+                        "pluralName": "Cocktail Bars",
+                        "primary": true,
+                        "shortName": "Cocktail"
+                    }
+                ],
+                "hasPerk": false,
+                "id": "4f2e74f9e4b05a84d8ecbc70",
+                "location": {
+                    "address": "Panoramastr. 1A",
+                    "cc": "DE",
+                    "city": "Berlin",
+                    "country": "Deutschland",
+                    "crossStreet": "Panorama-Etage",
+                    "formattedAddress": [
+                        "Panoramastr. 1A (Panorama-Etage)",
+                        "10178 Berlin",
+                        "Deutschland"
+                    ],
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.52079085034904,
+                            "lng": 13.409628868103027
+                        }
+                    ],
+                    "lat": 52.52079085034904,
+                    "lng": 13.409628868103027,
+                    "postalCode": "10178",
+                    "state": "Berlin"
+                },
+                "name": "Bar 203",
+                "referralId": "v-1549903921"
+            },
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d11b941735",
+                        "name": "Pub",
+                        "pluralName": "Pubs",
+                        "primary": true,
+                        "shortName": "Pub"
+                    }
+                ],
+                "hasPerk": false,
+                "id": "5925dabffebf311e1940ceee",
+                "location": {
+                    "address": "Invalidenstr. 129",
+                    "cc": "DE",
+                    "city": "Berlin",
+                    "country": "Deutschland",
+                    "formattedAddress": [
+                        "Invalidenstr. 129",
+                        "10115 Berlin",
+                        "Deutschland"
+                    ],
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.53163895030821,
+                            "lng": 13.388372034743451
+                        }
+                    ],
+                    "lat": 52.53163895030821,
+                    "lng": 13.388372034743451,
+                    "postalCode": "10115",
+                    "state": "Berlin"
+                },
+                "name": "The Castle",
+                "referralId": "v-1549903921"
+            },
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/default_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d121941735",
+                        "name": "Lounge",
+                        "pluralName": "Lounges",
+                        "primary": true,
+                        "shortName": "Lounge"
+                    }
+                ],
+                "hasPerk": false,
+                "id": "4f11ed60e4b0fd294ef3fa65",
+                "location": {
+                    "address": "Dahlmanstr. 27",
+                    "cc": "DE",
+                    "city": "Berlin",
+                    "country": "Deutschland",
+                    "crossStreet": "Sybelstr.",
+                    "formattedAddress": [
+                        "Dahlmanstr. 27 (Sybelstr.)",
+                        "10629 Berlin",
+                        "Deutschland"
+                    ],
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.50204192341586,
+                            "lng": 13.304086848773906
+                        }
+                    ],
+                    "lat": 52.50204192341586,
+                    "lng": 13.304086848773906,
+                    "postalCode": "10629",
+                    "state": "Berlin"
+                },
+                "name": "SharaZad Shisha & Cocktail Lounge",
+                "referralId": "v-1549903921"
+            },
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/german_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d10d941735",
+                        "name": "German Restaurant",
+                        "pluralName": "German Restaurants",
+                        "primary": true,
+                        "shortName": "German"
+                    }
+                ],
+                "hasPerk": false,
+                "id": "4af9fb1cf964a520b81522e3",
+                "location": {
+                    "address": "Kurfürstendamm 225",
+                    "cc": "DE",
+                    "city": "Berlin",
+                    "country": "Deutschland",
+                    "formattedAddress": [
+                        "Kurfürstendamm 225",
+                        "10719 Berlin",
+                        "Deutschland"
+                    ],
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.503255,
+                            "lng": 13.330285
+                        }
+                    ],
+                    "lat": 52.503255,
+                    "lng": 13.330285,
+                    "postalCode": "10719",
+                    "state": "Berlin"
+                },
+                "name": "Alt-Berliner Biersalon",
+                "referralId": "v-1549903921"
+            },
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_bar_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d1d5941735",
+                        "name": "Hotel Bar",
+                        "pluralName": "Hotel Bars",
+                        "primary": true,
+                        "shortName": "Hotel Bar"
+                    }
+                ],
+                "hasPerk": false,
+                "id": "507faaf3f31c44e07e35b2e6",
+                "location": {
+                    "address": "Karl-Liebknecht-Str. 3",
+                    "cc": "DE",
+                    "city": "Berlin",
+                    "country": "Deutschland",
+                    "formattedAddress": [
+                        "Karl-Liebknecht-Str. 3",
+                        "10178 Berlin",
+                        "Deutschland"
+                    ],
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.519596959299655,
+                            "lng": 13.40277435240641
+                        }
+                    ],
+                    "lat": 52.519596959299655,
+                    "lng": 13.40277435240641,
+                    "postalCode": "10178",
+                    "state": "Berlin"
+                },
+                "name": "Atrium Lobby Lounge & Bar",
+                "referralId": "v-1549903921"
+            },
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d1e5931735",
+                        "name": "Music Venue",
+                        "pluralName": "Music Venues",
+                        "primary": true,
+                        "shortName": "Music Venue"
+                    }
+                ],
+                "hasPerk": false,
+                "id": "4f51263de4b0771bcd74146c",
+                "location": {
+                    "address": "U Schlesisches Tor",
+                    "cc": "DE",
+                    "city": "Berlin",
+                    "country": "Deutschland",
+                    "crossStreet": "Skalitzer Str.",
+                    "formattedAddress": [
+                        "U Schlesisches Tor (Skalitzer Str.)",
+                        "10997 Berlin",
+                        "Deutschland"
+                    ],
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.500875966009026,
+                            "lng": 13.441453090156408
+                        }
+                    ],
+                    "lat": 52.500875966009026,
+                    "lng": 13.441453090156408,
+                    "postalCode": "10997",
+                    "state": "Berlin"
+                },
+                "name": "Bi Nuu",
+                "referralId": "v-1549903921"
+            },
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                            "suffix": ".png"
+                        },
+                        "id": "56aa371ce4b08b9a8d57356c",
+                        "name": "Beer Bar",
+                        "pluralName": "Beer Bars",
+                        "primary": true,
+                        "shortName": "Beer Bar"
+                    }
+                ],
+                "hasPerk": false,
+                "id": "5413399c498e8fde9fde0365",
+                "location": {
+                    "address": "Linienstr. 40",
+                    "cc": "DE",
+                    "city": "Berlin",
+                    "country": "Deutschland",
+                    "formattedAddress": [
+                        "Linienstr. 40",
+                        "10119 Berlin",
+                        "Deutschland"
+                    ],
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.52841936160541,
+                            "lng": 13.409956869646255
+                        }
+                    ],
+                    "lat": 52.52841936160541,
+                    "lng": 13.409956869646255,
+                    "postalCode": "10119",
+                    "state": "Berlin"
+                },
+                "name": "Kaschk",
+                "referralId": "v-1549903921",
+                "venuePage": {
+                    "id": "98151871"
+                }
+            },
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/nightclub_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d11f941735",
+                        "name": "Nightclub",
+                        "pluralName": "Nightclubs",
+                        "primary": true,
+                        "shortName": "Nightclub"
+                    }
+                ],
+                "hasPerk": false,
+                "id": "4be615e32457a593e37cac15",
+                "location": {
+                    "address": "Markgrafendamm 24c",
+                    "cc": "DE",
+                    "city": "Berlin",
+                    "country": "Deutschland",
+                    "formattedAddress": [
+                        "Markgrafendamm 24c",
+                        "10245 Berlin",
+                        "Deutschland"
+                    ],
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.502449274009095,
+                            "lng": 13.466373682022093
+                        }
+                    ],
+                    "lat": 52.502449274009095,
+                    "lng": 13.466373682022093,
+                    "postalCode": "10245",
+                    "state": "Berlin"
+                },
+                "name": "://about blank",
+                "referralId": "v-1549903921"
+            },
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/beergarden_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d117941735",
+                        "name": "Beer Garden",
+                        "pluralName": "Beer Gardens",
+                        "primary": true,
+                        "shortName": "Beer Garden"
+                    }
+                ],
+                "hasPerk": false,
+                "id": "4adcda73f964a520584521e3",
+                "location": {
+                    "address": "Lichtensteinallee 2",
+                    "cc": "DE",
+                    "city": "Berlin",
+                    "country": "Deutschland",
+                    "formattedAddress": [
+                        "Lichtensteinallee 2",
+                        "10787 Berlin",
+                        "Deutschland"
+                    ],
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.510497175705275,
+                            "lng": 13.344290959220633
+                        }
+                    ],
+                    "lat": 52.510497175705275,
+                    "lng": 13.344290959220633,
+                    "postalCode": "10787",
+                    "state": "Berlin"
+                },
+                "name": "Café am Neuen See",
+                "referralId": "v-1549903921"
+            },
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/nightclub_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d11f941735",
+                        "name": "Nightclub",
+                        "pluralName": "Nightclubs",
+                        "primary": true,
+                        "shortName": "Nightclub"
+                    }
+                ],
+                "hasPerk": false,
+                "id": "4adcda8df964a520414a21e3",
+                "location": {
+                    "address": "Auguststr. 24",
+                    "cc": "DE",
+                    "city": "Berlin",
+                    "country": "Deutschland",
+                    "formattedAddress": [
+                        "Auguststr. 24",
+                        "10117 Berlin",
+                        "Deutschland"
+                    ],
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.52692612025111,
+                            "lng": 13.396786314842336
+                        }
+                    ],
+                    "lat": 52.52692612025111,
+                    "lng": 13.396786314842336,
+                    "postalCode": "10117",
+                    "state": "Berlin"
+                },
+                "name": "Clärchens Ballhaus",
+                "referralId": "v-1549903921"
+            },
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/nightclub_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d11f941735",
+                        "name": "Nightclub",
+                        "pluralName": "Nightclubs",
+                        "primary": true,
+                        "shortName": "Nightclub"
+                    }
+                ],
+                "hasPerk": false,
+                "id": "5390e7a5498e1eb4652bffe4",
+                "location": {
+                    "address": "Holzmarktstr. 25",
+                    "cc": "DE",
+                    "city": "Berlin",
+                    "country": "Deutschland",
+                    "formattedAddress": [
+                        "Holzmarktstr. 25",
+                        "10243 Berlin",
+                        "Deutschland"
+                    ],
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.51186304262993,
+                            "lng": 13.425768449360852
+                        }
+                    ],
+                    "lat": 52.51186304262993,
+                    "lng": 13.425768449360852,
+                    "postalCode": "10243",
+                    "state": "Berlin"
+                },
+                "name": "Kater Blau",
+                "referralId": "v-1549903921"
+            },
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/nightclub_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d11f941735",
+                        "name": "Nightclub",
+                        "pluralName": "Nightclubs",
+                        "primary": true,
+                        "shortName": "Nightclub"
+                    }
+                ],
+                "hasPerk": false,
+                "id": "4ae778a5f964a520a5ab21e3",
+                "location": {
+                    "address": "Am Wriezener Bahnhof",
+                    "cc": "DE",
+                    "city": "Berlin",
+                    "country": "Deutschland",
+                    "formattedAddress": [
+                        "Am Wriezener Bahnhof",
+                        "10243 Berlin",
+                        "Deutschland"
+                    ],
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.51127097123939,
+                            "lng": 13.443295955657959
+                        }
+                    ],
+                    "lat": 52.51127097123939,
+                    "lng": 13.443295955657959,
+                    "neighborhood": "Friedrichshain",
+                    "postalCode": "10243"
+                },
+                "name": "Berghain / Panorama Bar",
+                "referralId": "v-1549903921"
+            },
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d116941735",
+                        "name": "Bar",
+                        "pluralName": "Bars",
+                        "primary": true,
+                        "shortName": "Bar"
+                    }
+                ],
+                "hasPerk": false,
+                "id": "4afe18cef964a520e42d22e3",
+                "location": {
+                    "address": "Wühlischstr. 43",
+                    "cc": "DE",
+                    "city": "Berlin",
+                    "country": "Deutschland",
+                    "crossStreet": "Seumestr.",
+                    "formattedAddress": [
+                        "Wühlischstr. 43 (Seumestr.)",
+                        "10245 Berlin",
+                        "Deutschland"
+                    ],
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.50865965561908,
+                            "lng": 13.461249641540403
+                        }
+                    ],
+                    "lat": 52.50865965561908,
+                    "lng": 13.461249641540403,
+                    "postalCode": "10245",
+                    "state": "Berlin"
+                },
+                "name": "Süß war gestern",
+                "referralId": "v-1549903921"
+            },
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d16d941735",
+                        "name": "Café",
+                        "pluralName": "Cafés",
+                        "primary": true,
+                        "shortName": "Café"
+                    }
+                ],
+                "hasPerk": false,
+                "id": "4af49b4af964a52048f421e3",
+                "location": {
+                    "address": "Skalitzer Str. 46A",
+                    "cc": "DE",
+                    "city": "Berlin",
+                    "country": "Deutschland",
+                    "formattedAddress": [
+                        "Skalitzer Str. 46A",
+                        "10997 Berlin",
+                        "Deutschland"
+                    ],
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.49912861276276,
+                            "lng": 13.430566300836764
+                        }
+                    ],
+                    "lat": 52.49912861276276,
+                    "lng": 13.430566300836764,
+                    "postalCode": "10997",
+                    "state": "Berlin"
+                },
+                "name": "Mano Cafe",
+                "referralId": "v-1549903921"
+            },
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/falafel_",
+                            "suffix": ".png"
+                        },
+                        "id": "56aa371be4b08b9a8d573529",
+                        "name": "Israeli Restaurant",
+                        "pluralName": "Israeli Restaurants",
+                        "primary": true,
+                        "shortName": "Israeli"
+                    }
+                ],
+                "hasPerk": false,
+                "id": "5650e762498e0883bacecfbc",
+                "location": {
+                    "address": "Gormannstr. 17",
+                    "cc": "DE",
+                    "city": "Berlin",
+                    "country": "Deutschland",
+                    "crossStreet": "Zehdenickerstr.",
+                    "formattedAddress": [
+                        "Gormannstr. 17 (Zehdenickerstr.)",
+                        "10119 Berlin",
+                        "Deutschland"
+                    ],
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.53048639527529,
+                            "lng": 13.405964488574275
+                        }
+                    ],
+                    "lat": 52.53048639527529,
+                    "lng": 13.405964488574275,
+                    "neighborhood": "Prenzlauer Berg",
+                    "postalCode": "10119",
+                    "state": "Berlin"
+                },
+                "name": "Yafo in Berlin",
+                "referralId": "v-1549903921"
+            },
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d116941735",
+                        "name": "Bar",
+                        "pluralName": "Bars",
+                        "primary": true,
+                        "shortName": "Bar"
+                    }
+                ],
+                "hasPerk": false,
+                "id": "4cc4a6f4be40a35dd3ec7f4c",
+                "location": {
+                    "address": "Weichselstr. 44",
+                    "cc": "DE",
+                    "city": "Berlin",
+                    "country": "Deutschland",
+                    "formattedAddress": [
+                        "Weichselstr. 44",
+                        "12059 Berlin",
+                        "Deutschland"
+                    ],
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.48734695430943,
+                            "lng": 13.436778927769645
+                        }
+                    ],
+                    "lat": 52.48734695430943,
+                    "lng": 13.436778927769645,
+                    "postalCode": "12059",
+                    "state": "Berlin"
+                },
+                "name": "Nathanja & Heinrich",
+                "referralId": "v-1549903921",
+                "venuePage": {
+                    "id": "76500925"
+                }
+            },
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/nightclub_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d11f941735",
+                        "name": "Nightclub",
+                        "pluralName": "Nightclubs",
+                        "primary": true,
+                        "shortName": "Nightclub"
+                    }
+                ],
+                "hasPerk": false,
+                "id": "4c3a1f89ae2da593fcb603c6",
+                "location": {
+                    "address": "Hauptstr. 15",
+                    "cc": "DE",
+                    "city": "Berlin",
+                    "country": "Deutschland",
+                    "formattedAddress": [
+                        "Hauptstr. 15",
+                        "10317 Berlin",
+                        "Deutschland"
+                    ],
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.49300036751654,
+                            "lng": 13.491161228668023
+                        }
+                    ],
+                    "lat": 52.49300036751654,
+                    "lng": 13.491161228668023,
+                    "postalCode": "10317",
+                    "state": "Berlin"
+                },
+                "name": "Sisyphos",
+                "referralId": "v-1549903921"
+            },
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/nightclub_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d11f941735",
+                        "name": "Nightclub",
+                        "pluralName": "Nightclubs",
+                        "primary": true,
+                        "shortName": "Nightclub"
+                    }
+                ],
+                "hasPerk": false,
+                "id": "4adcda79f964a5207b4621e3",
+                "location": {
+                    "address": "Rollbergstr. 26",
+                    "cc": "DE",
+                    "city": "Berlin",
+                    "country": "Deutschland",
+                    "formattedAddress": [
+                        "Rollbergstr. 26",
+                        "12053 Berlin",
+                        "Deutschland"
+                    ],
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.47944881,
+                            "lng": 13.43312668
+                        }
+                    ],
+                    "lat": 52.47944881,
+                    "lng": 13.43312668,
+                    "neighborhood": "Karl-Marx-Straße",
+                    "postalCode": "12053",
+                    "state": "Berlin"
+                },
+                "name": "SchwuZ",
+                "referralId": "v-1549903921",
+                "venuePage": {
+                    "id": "67751609"
+                }
+            },
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d11e941735",
+                        "name": "Cocktail Bar",
+                        "pluralName": "Cocktail Bars",
+                        "primary": true,
+                        "shortName": "Cocktail"
+                    }
+                ],
+                "hasPerk": false,
+                "id": "4b0a9c10f964a520952523e3",
+                "location": {
+                    "address": "Torstr. 89",
+                    "cc": "DE",
+                    "city": "Berlin",
+                    "country": "Deutschland",
+                    "crossStreet": "Gormannstr.",
+                    "formattedAddress": [
+                        "Torstr. 89 (Gormannstr.)",
+                        "10119 Berlin",
+                        "Deutschland"
+                    ],
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.52960691358462,
+                            "lng": 13.405498421887623
+                        }
+                    ],
+                    "lat": 52.52960691358462,
+                    "lng": 13.405498421887623,
+                    "postalCode": "10119",
+                    "state": "Berlin"
+                },
+                "name": "Neue Odessa Bar",
+                "referralId": "v-1549903921"
+            },
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/beergarden_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d117941735",
+                        "name": "Beer Garden",
+                        "pluralName": "Beer Gardens",
+                        "primary": true,
+                        "shortName": "Beer Garden"
+                    }
+                ],
+                "hasPerk": false,
+                "id": "51bb5e86498e3e2a6276f20f",
+                "location": {
+                    "address": "Karl-Marx-Str. 66",
+                    "cc": "DE",
+                    "city": "Berlin",
+                    "country": "Deutschland",
+                    "formattedAddress": [
+                        "Karl-Marx-Str. 66",
+                        "12043 Berlin",
+                        "Deutschland"
+                    ],
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.48209623936856,
+                            "lng": 13.431419613103948
+                        }
+                    ],
+                    "lat": 52.48209623936856,
+                    "lng": 13.431419613103948,
+                    "neighborhood": "Karl-Marx-Straße",
+                    "postalCode": "12043",
+                    "state": "Berlin"
+                },
+                "name": "Klunkerkranich",
+                "referralId": "v-1549903921"
+            },
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/nightclub_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d11f941735",
+                        "name": "Nightclub",
+                        "pluralName": "Nightclubs",
+                        "primary": true,
+                        "shortName": "Nightclub"
+                    }
+                ],
+                "hasPerk": false,
+                "id": "4c61681eb6f3be9af1916173",
+                "location": {
+                    "address": "Köpenicker Str. 76",
+                    "cc": "DE",
+                    "city": "Berlin",
+                    "country": "Deutschland",
+                    "formattedAddress": [
+                        "Köpenicker Str. 76",
+                        "10179 Berlin",
+                        "Deutschland"
+                    ],
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.51126316424497,
+                            "lng": 13.41675133666745
+                        }
+                    ],
+                    "lat": 52.51126316424497,
+                    "lng": 13.41675133666745,
+                    "postalCode": "10179",
+                    "state": "Berlin"
+                },
+                "name": "KitKatClub",
+                "referralId": "v-1549903921"
+            },
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/nightclub_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d11f941735",
+                        "name": "Nightclub",
+                        "pluralName": "Nightclubs",
+                        "primary": true,
+                        "shortName": "Nightclub"
+                    }
+                ],
+                "hasPerk": false,
+                "id": "4b88564af964a52038f031e3",
+                "location": {
+                    "address": "Schönhauser Allee 36",
+                    "cc": "DE",
+                    "city": "Berlin",
+                    "country": "Deutschland",
+                    "formattedAddress": [
+                        "Schönhauser Allee 36",
+                        "10435 Berlin",
+                        "Deutschland"
+                    ],
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.53945053627617,
+                            "lng": 13.414080779505635
+                        }
+                    ],
+                    "lat": 52.53945053627617,
+                    "lng": 13.414080779505635,
+                    "postalCode": "10435",
+                    "state": "Berlin"
+                },
+                "name": "SODA Club",
+                "referralId": "v-1549903921"
+            }
+        ,
+    {
+        "categories": [
+            {
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/brewery_",
+                    "suffix": ".png"
+                },
+                "id": "50327c8591d4c4b30a586d5d",
+                "name": "Brewery",
+                "pluralName": "Breweries",
+                "primary": true,
+                "shortName": "Brewery"
+            }
+        ],
+        "hasPerk": false,
+        "id": "581f5519fb482d7efa744e4a",
+        "location": {
+            "address": "Karl-Liebknecht-Str. 13",
+            "cc": "DE",
+            "city": "Berlin",
+            "country": "Deutschland",
+            "formattedAddress": [
+                "Karl-Liebknecht-Str. 13",
+                "10178 Berlin",
+                "Deutschland"
+            ],
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 52.52267969315401,
+                    "lng": 13.407351460720852
+                }
+            ],
+            "lat": 52.52267969315401,
+            "lng": 13.407351460720852,
+            "neighborhood": "Mitte",
+            "postalCode": "10178",
+            "state": "Berlin"
+        },
+        "name": "Brauhaus Lemke",
+        "referralId": "v-1549903921"
+    },
+    {
+        "categories": [
+            {
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/german_",
+                    "suffix": ".png"
+                },
+                "id": "56aa371ce4b08b9a8d573572",
+                "name": "Bavarian Restaurant",
+                "pluralName": "Bavarian Restaurants",
+                "primary": true,
+                "shortName": "Bavarian"
+            }
+        ],
+        "hasPerk": false,
+        "id": "4ead71856da1a0e3a47abe19",
+        "location": {
+            "address": "Karl-Liebknecht-Str. 30",
+            "cc": "DE",
+            "city": "Berlin",
+            "country": "Deutschland",
+            "formattedAddress": [
+                "Karl-Liebknecht-Str. 30",
+                "10178 Berlin",
+                "Deutschland"
+            ],
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 52.52470760322904,
+                    "lng": 13.413700461387634
+                }
+            ],
+            "lat": 52.52470760322904,
+            "lng": 13.413700461387634,
+            "postalCode": "10178",
+            "state": "Berlin"
+        },
+        "name": "Hofbräuhaus Berlin",
+        "referralId": "v-1549903921"
+    },
+    {
+        "categories": [
+            {
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                    "suffix": ".png"
+                },
+                "id": "4bf58dd8d48988d1c4941735",
+                "name": "Restaurant",
+                "pluralName": "Restaurants",
+                "primary": true,
+                "shortName": "Restaurant"
+            }
+        ],
+        "hasPerk": false,
+        "id": "4b3a0ee2f964a5209c6025e3",
+        "location": {
+            "address": "Alexanderplatz 7",
+            "cc": "DE",
+            "city": "Berlin",
+            "country": "Deutschland",
+            "formattedAddress": [
+                "Alexanderplatz 7",
+                "10178 Berlin",
+                "Deutschland"
+            ],
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 52.52330659463495,
+                    "lng": 13.413174455169365
+                }
+            ],
+            "lat": 52.52330659463495,
+            "lng": 13.413174455169365,
+            "postalCode": "10178",
+            "state": "Berlin"
+        },
+        "name": "Spagos Restaurant, Bar & Lounge",
+        "referralId": "v-1549903921"
+    },
+    {
+        "categories": [
+            {
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                    "suffix": ".png"
+                },
+                "id": "4bf58dd8d48988d11b941735",
+                "name": "Pub",
+                "pluralName": "Pubs",
+                "primary": true,
+                "shortName": "Pub"
+            }
+        ],
+        "hasPerk": false,
+        "id": "5963d96242d8c238027ead6e",
+        "location": {
+            "address": "Boxhagener Str. 110",
+            "cc": "DE",
+            "city": "Berlin",
+            "country": "Deutschland",
+            "crossStreet": "Simon-Dach-Str.",
+            "formattedAddress": [
+                "Boxhagener Str. 110 (Simon-Dach-Str.)",
+                "10245 Berlin",
+                "Deutschland"
+            ],
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 52.513074529751556,
+                    "lng": 13.457070711506269
+                }
+            ],
+            "lat": 52.513074529751556,
+            "lng": 13.457070711506269,
+            "neighborhood": "Friedrichshain, Berlin",
+            "postalCode": "10245",
+            "state": "Berlin"
+        },
+        "name": "Protokoll",
+        "referralId": "v-1549903921",
+        "venuePage": {
+            "id": "436434294"
+        }
+    },
+    {
+        "categories": [
+            {
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                    "suffix": ".png"
+                },
+                "id": "56aa371ce4b08b9a8d57356c",
+                "name": "Beer Bar",
+                "pluralName": "Beer Bars",
+                "primary": true,
+                "shortName": "Beer Bar"
+            }
+        ],
+        "hasPerk": false,
+        "id": "56069b45498ee7b98431e3b3",
+        "location": {
+            "address": "Ackerstr. 29",
+            "cc": "DE",
+            "city": "Berlin",
+            "country": "Deutschland",
+            "formattedAddress": [
+                "Ackerstr. 29",
+                "10115 Berlin",
+                "Deutschland"
+            ],
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 52.53280111922482,
+                    "lng": 13.395788669586182
+                }
+            ],
+            "lat": 52.53280111922482,
+            "lng": 13.395788669586182,
+            "postalCode": "10115",
+            "state": "Berlin"
+        },
+        "name": "BrewDog",
+        "referralId": "v-1549903921"
+    },
+    {
+        "categories": [
+            {
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_rockclub_",
+                    "suffix": ".png"
+                },
+                "id": "4bf58dd8d48988d1e9931735",
+                "name": "Rock Club",
+                "pluralName": "Rock Clubs",
+                "primary": true,
+                "shortName": "Rock Club"
+            }
+        ],
+        "hasPerk": false,
+        "id": "4adcda8df964a520724a21e3",
+        "location": {
+            "address": "Revaler Str. 99",
+            "cc": "DE",
+            "city": "Berlin",
+            "country": "Deutschland",
+            "formattedAddress": [
+                "Revaler Str. 99",
+                "10245 Berlin",
+                "Deutschland"
+            ],
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 52.507224219612304,
+                    "lng": 13.451788679881309
+                }
+            ],
+            "lat": 52.507224219612304,
+            "lng": 13.451788679881309,
+            "neighborhood": "Boxhagener Kiez",
+            "postalCode": "10245",
+            "state": "Berlin"
+        },
+        "name": "Astra Kulturhaus",
+        "referralId": "v-1549903921"
+    },
+    {
+        "categories": [
+            {
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/nightclub_",
+                    "suffix": ".png"
+                },
+                "id": "4bf58dd8d48988d11f941735",
+                "name": "Nightclub",
+                "pluralName": "Nightclubs",
+                "primary": true,
+                "shortName": "Nightclub"
+            }
+        ],
+        "hasPerk": false,
+        "id": "4adcda7af964a520fc4621e3",
+        "location": {
+            "address": "Köpenicker Str. 70",
+            "cc": "DE",
+            "city": "Berlin",
+            "country": "Deutschland",
+            "crossStreet": "Michaelkirchstr.",
+            "formattedAddress": [
+                "Köpenicker Str. 70 (Michaelkirchstr.)",
+                "10179 Berlin",
+                "Deutschland"
+            ],
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 52.510605658422215,
+                    "lng": 13.420207500457764
+                }
+            ],
+            "lat": 52.510605658422215,
+            "lng": 13.420207500457764,
+            "postalCode": "10179",
+            "state": "Berlin"
+        },
+        "name": "Tresor",
+        "referralId": "v-1549903921"
+    },
+    {
+        "categories": [
+            {
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                    "suffix": ".png"
+                },
+                "id": "4bf58dd8d48988d11b941735",
+                "name": "Pub",
+                "pluralName": "Pubs",
+                "primary": true,
+                "shortName": "Pub"
+            }
+        ],
+        "hasPerk": false,
+        "id": "4fb36676e4b034ff672593e3",
+        "location": {
+            "address": "Friedrichstr. 128",
+            "cc": "DE",
+            "city": "Berlin",
+            "country": "Deutschland",
+            "crossStreet": "Claire-Waldoff-Str.",
+            "formattedAddress": [
+                "Friedrichstr. 128 (Claire-Waldoff-Str.)",
+                "10117 Berlin",
+                "Deutschland"
+            ],
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 52.52529508604056,
+                    "lng": 13.387141227722168
+                }
+            ],
+            "lat": 52.52529508604056,
+            "lng": 13.387141227722168,
+            "neighborhood": "Mitte",
+            "postalCode": "10117",
+            "state": "Berlin"
+        },
+        "name": "Hackendahl",
+        "referralId": "v-1549903921"
+    },
+    {
+        "categories": [
+            {
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
+                    "suffix": ".png"
+                },
+                "id": "4bf58dd8d48988d11e941735",
+                "name": "Cocktail Bar",
+                "pluralName": "Cocktail Bars",
+                "primary": true,
+                "shortName": "Cocktail"
+            }
+        ],
+        "hasPerk": false,
+        "id": "52ea169411d28bebe4d114a1",
+        "location": {
+            "address": "Budapester Str. 40",
+            "cc": "DE",
+            "city": "Berlin",
+            "country": "Deutschland",
+            "formattedAddress": [
+                "Budapester Str. 40",
+                "10787 Berlin",
+                "Deutschland"
+            ],
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 52.50559707327734,
+                    "lng": 13.337230682373047
+                }
+            ],
+            "lat": 52.50559707327734,
+            "lng": 13.337230682373047,
+            "postalCode": "10787",
+            "state": "Berlin"
+        },
+        "name": "Monkey Bar",
+        "referralId": "v-1549903921",
+        "venuePage": {
+            "id": "77625043"
+        }
+    },
+    {
+        "categories": [
+            {
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                    "suffix": ".png"
+                },
+                "id": "4bf58dd8d48988d116941735",
+                "name": "Bar",
+                "pluralName": "Bars",
+                "primary": true,
+                "shortName": "Bar"
+            }
+        ],
+        "hasPerk": false,
+        "id": "4ba7f702f964a52075c239e3",
+        "location": {
+            "address": "Mariannenstr. 26a",
+            "cc": "DE",
+            "city": "Berlin",
+            "country": "Deutschland",
+            "crossStreet": "Paul-Linke-Ufer",
+            "formattedAddress": [
+                "Mariannenstr. 26a (Paul-Linke-Ufer)",
+                "10999 Berlin",
+                "Deutschland"
+            ],
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 52.49655103994183,
+                    "lng": 13.420146567574358
+                }
+            ],
+            "lat": 52.49655103994183,
+            "lng": 13.420146567574358,
+            "postalCode": "10999",
+            "state": "Berlin"
+        },
+        "name": "Das Hotel",
+        "referralId": "v-1549903921"
+    },
+    {
+        "categories": [
+            {
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                    "suffix": ".png"
+                },
+                "id": "56aa371ce4b08b9a8d57356c",
+                "name": "Beer Bar",
+                "pluralName": "Beer Bars",
+                "primary": true,
+                "shortName": "Beer Bar"
+            }
+        ],
+        "hasPerk": false,
+        "id": "57ec9ab7498e1648f157c4ef",
+        "location": {
+            "address": "Torstr. 102",
+            "cc": "DE",
+            "city": "Berlin",
+            "country": "Deutschland",
+            "formattedAddress": [
+                "Torstr. 102",
+                "10119 Berlin",
+                "Deutschland"
+            ],
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 52.52978597071602,
+                    "lng": 13.403926990842765
+                }
+            ],
+            "lat": 52.52978597071602,
+            "lng": 13.403926990842765,
+            "neighborhood": "Mitte",
+            "postalCode": "10119",
+            "state": "Berlin"
+        },
+        "name": "Mikkeller Bar",
+        "referralId": "v-1549903921"
+    },
+    {
+        "categories": [
+            {
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/brewery_",
+                    "suffix": ".png"
+                },
+                "id": "50327c8591d4c4b30a586d5d",
+                "name": "Brewery",
+                "pluralName": "Breweries",
+                "primary": true,
+                "shortName": "Brewery"
+            }
+        ],
+        "hasPerk": false,
+        "id": "575582b5498ea375c57d504f",
+        "location": {
+            "address": "Schöneberger Str. 16",
+            "cc": "DE",
+            "city": "Berlin",
+            "country": "Deutschland",
+            "formattedAddress": [
+                "Schöneberger Str. 16",
+                "10963 Berlin",
+                "Deutschland"
+            ],
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 52.50007847969667,
+                    "lng": 13.373526334762573
+                }
+            ],
+            "lat": 52.50007847969667,
+            "lng": 13.373526334762573,
+            "neighborhood": "Viktoriakiez",
+            "postalCode": "10963",
+            "state": "Berlin"
+        },
+        "name": "BRŁO Brwhouse",
+        "referralId": "v-1549903921"
+    },
+    {
+        "categories": [
+            {
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                    "suffix": ".png"
+                },
+                "id": "4bf58dd8d48988d1c4941735",
+                "name": "Restaurant",
+                "pluralName": "Restaurants",
+                "primary": true,
+                "shortName": "Restaurant"
+            }
+        ],
+        "hasPerk": false,
+        "id": "5a6f557389e4906a1487e680",
+        "location": {
+            "address": "Karl-Liebknecht-Str. 13",
+            "cc": "DE",
+            "city": "Berlin",
+            "country": "Deutschland",
+            "formattedAddress": [
+                "Karl-Liebknecht-Str. 13",
+                "10178 Berlin",
+                "Deutschland"
+            ],
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 52.52224860815297,
+                    "lng": 13.408036355819718
+                }
+            ],
+            "lat": 52.52224860815297,
+            "lng": 13.408036355819718,
+            "neighborhood": "Mitte",
+            "postalCode": "10178",
+            "state": "Berlin"
+        },
+        "name": "THE REED",
+        "referralId": "v-1549903921"
+    },
+    {
+        "categories": [
+            {
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/nightclub_",
+                    "suffix": ".png"
+                },
+                "id": "4bf58dd8d48988d11f941735",
+                "name": "Nightclub",
+                "pluralName": "Nightclubs",
+                "primary": true,
+                "shortName": "Nightclub"
+            }
+        ],
+        "hasPerk": false,
+        "id": "4ee24702f9f47646d7b2785f",
+        "location": {
+            "address": "Sonnenalle 221",
+            "cc": "DE",
+            "city": "Berlin",
+            "country": "Deutschland",
+            "formattedAddress": [
+                "Sonnenalle 221",
+                "12059 Berlin",
+                "Deutschland"
+            ],
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 52.476358549402846,
+                    "lng": 13.457623554055461
+                }
+            ],
+            "lat": 52.476358549402846,
+            "lng": 13.457623554055461,
+            "postalCode": "12059",
+            "state": "Berlin"
+        },
+        "name": "Griessmühle",
+        "referralId": "v-1549903921"
+    },
+    {
+        "categories": [
+            {
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/nightclub_",
+                    "suffix": ".png"
+                },
+                "id": "4bf58dd8d48988d11f941735",
+                "name": "Nightclub",
+                "pluralName": "Nightclubs",
+                "primary": true,
+                "shortName": "Nightclub"
+            }
+        ],
+        "hasPerk": false,
+        "id": "4aeca2a8f964a520b6c921e3",
+        "location": {
+            "address": "Ritterstr. 26",
+            "cc": "DE",
+            "city": "Berlin",
+            "country": "Deutschland",
+            "crossStreet": "Lobeckstr.",
+            "formattedAddress": [
+                "Ritterstr. 26 (Lobeckstr.)",
+                "10969 Berlin",
+                "Deutschland"
+            ],
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 52.50282340294553,
+                    "lng": 13.40804611989337
+                }
+            ],
+            "lat": 52.50282340294553,
+            "lng": 13.40804611989337,
+            "postalCode": "10969",
+            "state": "Berlin"
+        },
+        "name": "Ritter Butzke",
+        "referralId": "v-1549903921"
+    },
+    {
+        "categories": [
+            {
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/breakfast_",
+                    "suffix": ".png"
+                },
+                "id": "4bf58dd8d48988d143941735",
+                "name": "Breakfast Spot",
+                "pluralName": "Breakfast Spots",
+                "primary": true,
+                "shortName": "Breakfast"
+            }
+        ],
+        "hasPerk": false,
+        "id": "586240912eb979748a7ec034",
+        "location": {
+            "address": "Rosenthaler Str. 1",
+            "cc": "DE",
+            "city": "Berlin",
+            "country": "Deutschland",
+            "formattedAddress": [
+                "Rosenthaler Str. 1",
+                "10119 Berlin",
+                "Deutschland"
+            ],
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 52.52948102523397,
+                    "lng": 13.401606834287564
+                }
+            ],
+            "lat": 52.52948102523397,
+            "lng": 13.401606834287564,
+            "postalCode": "10119",
+            "state": "Berlin"
+        },
+        "name": "Commonground",
+        "referralId": "v-1549903921",
+        "venuePage": {
+            "id": "393726378"
+        }
+    },
+    {
+        "categories": [
+            {
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                    "suffix": ".png"
+                },
+                "id": "56aa371be4b08b9a8d573538",
+                "name": "Theme Restaurant",
+                "pluralName": "Theme Restaurants",
+                "primary": true,
+                "shortName": "Theme Restaurant"
+            }
+        ],
+        "hasPerk": false,
+        "id": "4bc57a696936952133238488",
+        "location": {
+            "address": "Kurfürstendamm 224",
+            "cc": "DE",
+            "city": "Berlin",
+            "country": "Deutschland",
+            "crossStreet": "Meinekestr.",
+            "formattedAddress": [
+                "Kurfürstendamm 224 (Meinekestr.)",
+                "10719 Berlin",
+                "Deutschland"
+            ],
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 52.50309189537848,
+                    "lng": 13.329379434935618
+                }
+            ],
+            "lat": 52.50309189537848,
+            "lng": 13.329379434935618,
+            "postalCode": "10719",
+            "state": "Berlin"
+        },
+        "name": "Hard Rock Cafe",
+        "referralId": "v-1549903921"
+    },
+    {
+        "categories": [
+            {
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                    "suffix": ".png"
+                },
+                "id": "4bf58dd8d48988d116941735",
+                "name": "Bar",
+                "pluralName": "Bars",
+                "primary": true,
+                "shortName": "Bar"
+            }
+        ],
+        "hasPerk": false,
+        "id": "4b2b4426f964a52077b524e3",
+        "location": {
+            "address": "Brunnenstr 197-198",
+            "cc": "DE",
+            "city": "Berlin",
+            "country": "Deutschland",
+            "formattedAddress": [
+                "Brunnenstr 197-198",
+                "10119 Berlin",
+                "Deutschland"
+            ],
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 52.530030416844305,
+                    "lng": 13.400964168478575
+                }
+            ],
+            "lat": 52.530030416844305,
+            "lng": 13.400964168478575,
+            "postalCode": "10119",
+            "state": "Berlin"
+        },
+        "name": "Mein Haus am See",
+        "referralId": "v-1549903921"
+    },
+    {
+        "categories": [
+            {
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/nightclub_",
+                    "suffix": ".png"
+                },
+                "id": "4bf58dd8d48988d11f941735",
+                "name": "Nightclub",
+                "pluralName": "Nightclubs",
+                "primary": true,
+                "shortName": "Nightclub"
+            }
+        ],
+        "hasPerk": false,
+        "id": "4b4f7f91f964a520ff0827e3",
+        "location": {
+            "address": "Alt-Stralau 70",
+            "cc": "DE",
+            "city": "Berlin",
+            "country": "Deutschland",
+            "formattedAddress": [
+                "Alt-Stralau 70",
+                "10245 Berlin",
+                "Deutschland"
+            ],
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 52.49731337512296,
+                    "lng": 13.465170237335942
+                }
+            ],
+            "lat": 52.49731337512296,
+            "lng": 13.465170237335942,
+            "postalCode": "10245",
+            "state": "Berlin"
+        },
+        "name": "Salon zur wilden Renate",
+        "referralId": "v-1549903921"
+    },
+    {
+        "categories": [
+            {
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/beergarden_",
+                    "suffix": ".png"
+                },
+                "id": "4bf58dd8d48988d117941735",
+                "name": "Beer Garden",
+                "pluralName": "Beer Gardens",
+                "primary": true,
+                "shortName": "Beer Garden"
+            }
+        ],
+        "hasPerk": false,
+        "id": "56fbc546498e4b3e5ba1f513",
+        "location": {
+            "address": "SXF Airport",
+            "cc": "DE",
+            "city": "Schönefeld",
+            "country": "Deutschland",
+            "formattedAddress": [
+                "SXF Airport",
+                "12529 Schönefeld",
+                "Deutschland"
+            ],
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 52.388740071686044,
+                    "lng": 13.516946448948334
+                }
+            ],
+            "lat": 52.388740071686044,
+            "lng": 13.516946448948334,
+            "postalCode": "12529",
+            "state": "Brandenburg"
+        },
+        "name": "Die Almhütte",
+        "referralId": "v-1549903921"
+    },
+    {
+        "categories": [
+            {
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_rockclub_",
+                    "suffix": ".png"
+                },
+                "id": "4bf58dd8d48988d1e9931735",
+                "name": "Rock Club",
+                "pluralName": "Rock Clubs",
+                "primary": true,
+                "shortName": "Rock Club"
+            }
+        ],
+        "hasPerk": false,
+        "id": "587a82452b04f82f1b70eb29",
+        "location": {
+            "address": "Am Flutgraben 2",
+            "cc": "DE",
+            "city": "Berlin",
+            "country": "Deutschland",
+            "formattedAddress": [
+                "Am Flutgraben 2",
+                "12435 Berlin",
+                "Deutschland"
+            ],
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 52.4967329555376,
+                    "lng": 13.451533799509587
+                }
+            ],
+            "lat": 52.4967329555376,
+            "lng": 13.451533799509587,
+            "postalCode": "12435",
+            "state": "Berlin"
+        },
+        "name": "Festsaal Kreuzberg",
+        "referralId": "v-1549903921"
+    },
+    {
+        "categories": [
+            {
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                    "suffix": ".png"
+                },
+                "id": "4bf58dd8d48988d116941735",
+                "name": "Bar",
+                "pluralName": "Bars",
+                "primary": true,
+                "shortName": "Bar"
+            }
+        ],
+        "hasPerk": false,
+        "id": "4c2113f313c00f47586785de",
+        "location": {
+            "address": "Pücklerstr. 33",
+            "cc": "DE",
+            "city": "Berlin",
+            "country": "Deutschland",
+            "formattedAddress": [
+                "Pücklerstr. 33",
+                "10997 Berlin",
+                "Deutschland"
+            ],
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 52.5022542722616,
+                    "lng": 13.430717849669797
+                }
+            ],
+            "lat": 52.5022542722616,
+            "lng": 13.430717849669797,
+            "postalCode": "10997",
+            "state": "Berlin"
+        },
+        "name": "Lerchen und Eulen",
+        "referralId": "v-1549903921"
+    },
+    {
+        "categories": [
+            {
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
+                    "suffix": ".png"
+                },
+                "id": "4bf58dd8d48988d11e941735",
+                "name": "Cocktail Bar",
+                "pluralName": "Cocktail Bars",
+                "primary": true,
+                "shortName": "Cocktail"
+            }
+        ],
+        "hasPerk": false,
+        "id": "5a7454ce6f706a38005806cf",
+        "location": {
+            "address": "Krausnickstr. 1",
+            "cc": "DE",
+            "city": "Berlin",
+            "country": "Deutschland",
+            "crossStreet": "Oranienburger Str.",
+            "formattedAddress": [
+                "Krausnickstr. 1 (Oranienburger Str.)",
+                "10115 Berlin",
+                "Deutschland"
+            ],
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 52.524365484525525,
+                    "lng": 13.395541996018128
+                }
+            ],
+            "lat": 52.524365484525525,
+            "lng": 13.395541996018128,
+            "neighborhood": "Mitte",
+            "postalCode": "10115",
+            "state": "Berlin"
+        },
+        "name": "Mr. Susan",
+        "referralId": "v-1549903921"
+    },
+    {
+        "categories": [
+            {
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/karaoke_",
+                    "suffix": ".png"
+                },
+                "id": "4bf58dd8d48988d120941735",
+                "name": "Karaoke Bar",
+                "pluralName": "Karaoke Bars",
+                "primary": true,
+                "shortName": "Karaoke"
+            }
+        ],
+        "hasPerk": false,
+        "id": "4adcda78f964a520374621e3",
+        "location": {
+            "address": "Warschauer Str. 34",
+            "cc": "DE",
+            "city": "Berlin",
+            "country": "Deutschland",
+            "formattedAddress": [
+                "Warschauer Str. 34",
+                "10243 Berlin",
+                "Deutschland"
+            ],
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 52.50515331539783,
+                    "lng": 13.448398407889163
+                }
+            ],
+            "lat": 52.50515331539783,
+            "lng": 13.448398407889163,
+            "postalCode": "10243",
+            "state": "Berlin"
+        },
+        "name": "Monster Ronson's Ichiban Karaoke",
+        "referralId": "v-1549903921"
+    },
+    {
+        "categories": [
+            {
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                    "suffix": ".png"
+                },
+                "id": "56aa371ce4b08b9a8d57356c",
+                "name": "Beer Bar",
+                "pluralName": "Beer Bars",
+                "primary": true,
+                "shortName": "Beer Bar"
+            }
+        ],
+        "hasPerk": false,
+        "id": "57b8a66ccd10ab004e256f6c",
+        "location": {
+            "address": "Flughafenstr. 49",
+            "cc": "DE",
+            "city": "Berlin",
+            "country": "Deutschland",
+            "crossStreet": "Hermannstr.",
+            "formattedAddress": [
+                "Flughafenstr. 49 (Hermannstr.)",
+                "12053 Berlin",
+                "Deutschland"
+            ],
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 52.48070840798713,
+                    "lng": 13.426280544716859
+                }
+            ],
+            "lat": 52.48070840798713,
+            "lng": 13.426280544716859,
+            "neighborhood": "Schillerkiez",
+            "postalCode": "12053",
+            "state": "Berlin"
+        },
+        "name": "Muted Horn",
+        "referralId": "v-1549903921",
+        "venuePage": {
+            "id": "329830392"
+        }
+    },
+    {
+        "categories": [
+            {
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                    "suffix": ".png"
+                },
+                "id": "4bf58dd8d48988d116941735",
+                "name": "Bar",
+                "pluralName": "Bars",
+                "primary": true,
+                "shortName": "Bar"
+            }
+        ],
+        "hasPerk": false,
+        "id": "4adcda79f964a520b44621e3",
+        "location": {
+            "address": "Oranienstr. 34",
+            "cc": "DE",
+            "city": "Berlin",
+            "country": "Deutschland",
+            "formattedAddress": [
+                "Oranienstr. 34",
+                "10999 Berlin",
+                "Deutschland"
+            ],
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 52.50160763417674,
+                    "lng": 13.418269755829378
+                }
+            ],
+            "lat": 52.50160763417674,
+            "lng": 13.418269755829378,
+            "postalCode": "10999",
+            "state": "Berlin"
+        },
+        "name": "Luzia",
+        "referralId": "v-1549903921"
+    },
+    {
+        "categories": [
+            {
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/german_",
+                    "suffix": ".png"
+                },
+                "id": "4bf58dd8d48988d10d941735",
+                "name": "German Restaurant",
+                "pluralName": "German Restaurants",
+                "primary": true,
+                "shortName": "German"
+            }
+        ],
+        "hasPerk": false,
+        "id": "4be303d0d27a20a116ff905b",
+        "location": {
+            "address": "Charlottenstr. 55",
+            "cc": "DE",
+            "city": "Berlin",
+            "country": "Deutschland",
+            "formattedAddress": [
+                "Charlottenstr. 55",
+                "10117 Berlin",
+                "Deutschland"
+            ],
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 52.513990106984444,
+                    "lng": 13.39100122726925
+                }
+            ],
+            "lat": 52.513990106984444,
+            "lng": 13.39100122726925,
+            "postalCode": "10117",
+            "state": "Berlin"
+        },
+        "name": "Augustiner am Gendarmenmarkt",
+        "referralId": "v-1549903921"
+    },
+    {
+        "categories": [
+            {
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/sportsbar_",
+                    "suffix": ".png"
+                },
+                "id": "4bf58dd8d48988d11d941735",
+                "name": "Sports Bar",
+                "pluralName": "Sports Bars",
+                "primary": true,
+                "shortName": "Sports Bar"
+            }
+        ],
+        "hasPerk": false,
+        "id": "4b2ccbb3f964a52057c924e3",
+        "location": {
+            "address": "Rosa-Luxemburg-Str. 41",
+            "cc": "DE",
+            "city": "Berlin",
+            "country": "Deutschland",
+            "formattedAddress": [
+                "Rosa-Luxemburg-Str. 41",
+                "10178 Berlin",
+                "Deutschland"
+            ],
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 52.526848605336326,
+                    "lng": 13.410811298726422
+                }
+            ],
+            "lat": 52.526848605336326,
+            "lng": 13.410811298726422,
+            "postalCode": "10178",
+            "state": "Berlin"
+        },
+        "name": "Belushi's",
+        "referralId": "v-1549903921"
+    },
+    {
+        "categories": [
+            {
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
+                    "suffix": ".png"
+                },
+                "id": "4bf58dd8d48988d11e941735",
+                "name": "Cocktail Bar",
+                "pluralName": "Cocktail Bars",
+                "primary": true,
+                "shortName": "Cocktail"
+            }
+        ],
+        "hasPerk": false,
+        "id": "4f2e74f9e4b05a84d8ecbc70",
+        "location": {
+            "address": "Panoramastr. 1A",
+            "cc": "DE",
+            "city": "Berlin",
+            "country": "Deutschland",
+            "crossStreet": "Panorama-Etage",
+            "formattedAddress": [
+                "Panoramastr. 1A (Panorama-Etage)",
+                "10178 Berlin",
+                "Deutschland"
+            ],
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 52.52079085034904,
+                    "lng": 13.409628868103027
+                }
+            ],
+            "lat": 52.52079085034904,
+            "lng": 13.409628868103027,
+            "postalCode": "10178",
+            "state": "Berlin"
+        },
+        "name": "Bar 203",
+        "referralId": "v-1549903921"
+    },
+    {
+        "categories": [
+            {
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                    "suffix": ".png"
+                },
+                "id": "4bf58dd8d48988d11b941735",
+                "name": "Pub",
+                "pluralName": "Pubs",
+                "primary": true,
+                "shortName": "Pub"
+            }
+        ],
+        "hasPerk": false,
+        "id": "5925dabffebf311e1940ceee",
+        "location": {
+            "address": "Invalidenstr. 129",
+            "cc": "DE",
+            "city": "Berlin",
+            "country": "Deutschland",
+            "formattedAddress": [
+                "Invalidenstr. 129",
+                "10115 Berlin",
+                "Deutschland"
+            ],
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 52.53163895030821,
+                    "lng": 13.388372034743451
+                }
+            ],
+            "lat": 52.53163895030821,
+            "lng": 13.388372034743451,
+            "postalCode": "10115",
+            "state": "Berlin"
+        },
+        "name": "The Castle",
+        "referralId": "v-1549903921"
+    },
+    {
+        "categories": [
+            {
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/default_",
+                    "suffix": ".png"
+                },
+                "id": "4bf58dd8d48988d121941735",
+                "name": "Lounge",
+                "pluralName": "Lounges",
+                "primary": true,
+                "shortName": "Lounge"
+            }
+        ],
+        "hasPerk": false,
+        "id": "4f11ed60e4b0fd294ef3fa65",
+        "location": {
+            "address": "Dahlmanstr. 27",
+            "cc": "DE",
+            "city": "Berlin",
+            "country": "Deutschland",
+            "crossStreet": "Sybelstr.",
+            "formattedAddress": [
+                "Dahlmanstr. 27 (Sybelstr.)",
+                "10629 Berlin",
+                "Deutschland"
+            ],
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 52.50204192341586,
+                    "lng": 13.304086848773906
+                }
+            ],
+            "lat": 52.50204192341586,
+            "lng": 13.304086848773906,
+            "postalCode": "10629",
+            "state": "Berlin"
+        },
+        "name": "SharaZad Shisha & Cocktail Lounge",
+        "referralId": "v-1549903921"
+    },
+    {
+        "categories": [
+            {
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/german_",
+                    "suffix": ".png"
+                },
+                "id": "4bf58dd8d48988d10d941735",
+                "name": "German Restaurant",
+                "pluralName": "German Restaurants",
+                "primary": true,
+                "shortName": "German"
+            }
+        ],
+        "hasPerk": false,
+        "id": "4af9fb1cf964a520b81522e3",
+        "location": {
+            "address": "Kurfürstendamm 225",
+            "cc": "DE",
+            "city": "Berlin",
+            "country": "Deutschland",
+            "formattedAddress": [
+                "Kurfürstendamm 225",
+                "10719 Berlin",
+                "Deutschland"
+            ],
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 52.503255,
+                    "lng": 13.330285
+                }
+            ],
+            "lat": 52.503255,
+            "lng": 13.330285,
+            "postalCode": "10719",
+            "state": "Berlin"
+        },
+        "name": "Alt-Berliner Biersalon",
+        "referralId": "v-1549903921"
+    },
+    {
+        "categories": [
+            {
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_bar_",
+                    "suffix": ".png"
+                },
+                "id": "4bf58dd8d48988d1d5941735",
+                "name": "Hotel Bar",
+                "pluralName": "Hotel Bars",
+                "primary": true,
+                "shortName": "Hotel Bar"
+            }
+        ],
+        "hasPerk": false,
+        "id": "507faaf3f31c44e07e35b2e6",
+        "location": {
+            "address": "Karl-Liebknecht-Str. 3",
+            "cc": "DE",
+            "city": "Berlin",
+            "country": "Deutschland",
+            "formattedAddress": [
+                "Karl-Liebknecht-Str. 3",
+                "10178 Berlin",
+                "Deutschland"
+            ],
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 52.519596959299655,
+                    "lng": 13.40277435240641
+                }
+            ],
+            "lat": 52.519596959299655,
+            "lng": 13.40277435240641,
+            "postalCode": "10178",
+            "state": "Berlin"
+        },
+        "name": "Atrium Lobby Lounge & Bar",
+        "referralId": "v-1549903921"
+    },
+    {
+        "categories": [
+            {
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_",
+                    "suffix": ".png"
+                },
+                "id": "4bf58dd8d48988d1e5931735",
+                "name": "Music Venue",
+                "pluralName": "Music Venues",
+                "primary": true,
+                "shortName": "Music Venue"
+            }
+        ],
+        "hasPerk": false,
+        "id": "4f51263de4b0771bcd74146c",
+        "location": {
+            "address": "U Schlesisches Tor",
+            "cc": "DE",
+            "city": "Berlin",
+            "country": "Deutschland",
+            "crossStreet": "Skalitzer Str.",
+            "formattedAddress": [
+                "U Schlesisches Tor (Skalitzer Str.)",
+                "10997 Berlin",
+                "Deutschland"
+            ],
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 52.500875966009026,
+                    "lng": 13.441453090156408
+                }
+            ],
+            "lat": 52.500875966009026,
+            "lng": 13.441453090156408,
+            "postalCode": "10997",
+            "state": "Berlin"
+        },
+        "name": "Bi Nuu",
+        "referralId": "v-1549903921"
+    },
+    {
+        "categories": [
+            {
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                    "suffix": ".png"
+                },
+                "id": "56aa371ce4b08b9a8d57356c",
+                "name": "Beer Bar",
+                "pluralName": "Beer Bars",
+                "primary": true,
+                "shortName": "Beer Bar"
+            }
+        ],
+        "hasPerk": false,
+        "id": "5413399c498e8fde9fde0365",
+        "location": {
+            "address": "Linienstr. 40",
+            "cc": "DE",
+            "city": "Berlin",
+            "country": "Deutschland",
+            "formattedAddress": [
+                "Linienstr. 40",
+                "10119 Berlin",
+                "Deutschland"
+            ],
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 52.52841936160541,
+                    "lng": 13.409956869646255
+                }
+            ],
+            "lat": 52.52841936160541,
+            "lng": 13.409956869646255,
+            "postalCode": "10119",
+            "state": "Berlin"
+        },
+        "name": "Kaschk",
+        "referralId": "v-1549903921",
+        "venuePage": {
+            "id": "98151871"
+        }
+    },
+    {
+        "categories": [
+            {
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/nightclub_",
+                    "suffix": ".png"
+                },
+                "id": "4bf58dd8d48988d11f941735",
+                "name": "Nightclub",
+                "pluralName": "Nightclubs",
+                "primary": true,
+                "shortName": "Nightclub"
+            }
+        ],
+        "hasPerk": false,
+        "id": "4be615e32457a593e37cac15",
+        "location": {
+            "address": "Markgrafendamm 24c",
+            "cc": "DE",
+            "city": "Berlin",
+            "country": "Deutschland",
+            "formattedAddress": [
+                "Markgrafendamm 24c",
+                "10245 Berlin",
+                "Deutschland"
+            ],
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 52.502449274009095,
+                    "lng": 13.466373682022093
+                }
+            ],
+            "lat": 52.502449274009095,
+            "lng": 13.466373682022093,
+            "postalCode": "10245",
+            "state": "Berlin"
+        },
+        "name": "://about blank",
+        "referralId": "v-1549903921"
+    },
+    {
+        "categories": [
+            {
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/beergarden_",
+                    "suffix": ".png"
+                },
+                "id": "4bf58dd8d48988d117941735",
+                "name": "Beer Garden",
+                "pluralName": "Beer Gardens",
+                "primary": true,
+                "shortName": "Beer Garden"
+            }
+        ],
+        "hasPerk": false,
+        "id": "4adcda73f964a520584521e3",
+        "location": {
+            "address": "Lichtensteinallee 2",
+            "cc": "DE",
+            "city": "Berlin",
+            "country": "Deutschland",
+            "formattedAddress": [
+                "Lichtensteinallee 2",
+                "10787 Berlin",
+                "Deutschland"
+            ],
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 52.510497175705275,
+                    "lng": 13.344290959220633
+                }
+            ],
+            "lat": 52.510497175705275,
+            "lng": 13.344290959220633,
+            "postalCode": "10787",
+            "state": "Berlin"
+        },
+        "name": "Café am Neuen See",
+        "referralId": "v-1549903921"
+    },
+    {
+        "categories": [
+            {
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/nightclub_",
+                    "suffix": ".png"
+                },
+                "id": "4bf58dd8d48988d11f941735",
+                "name": "Nightclub",
+                "pluralName": "Nightclubs",
+                "primary": true,
+                "shortName": "Nightclub"
+            }
+        ],
+        "hasPerk": false,
+        "id": "4adcda8df964a520414a21e3",
+        "location": {
+            "address": "Auguststr. 24",
+            "cc": "DE",
+            "city": "Berlin",
+            "country": "Deutschland",
+            "formattedAddress": [
+                "Auguststr. 24",
+                "10117 Berlin",
+                "Deutschland"
+            ],
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 52.52692612025111,
+                    "lng": 13.396786314842336
+                }
+            ],
+            "lat": 52.52692612025111,
+            "lng": 13.396786314842336,
+            "postalCode": "10117",
+            "state": "Berlin"
+        },
+        "name": "Clärchens Ballhaus",
+        "referralId": "v-1549903921"
+    },
+    {
+        "categories": [
+            {
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/nightclub_",
+                    "suffix": ".png"
+                },
+                "id": "4bf58dd8d48988d11f941735",
+                "name": "Nightclub",
+                "pluralName": "Nightclubs",
+                "primary": true,
+                "shortName": "Nightclub"
+            }
+        ],
+        "hasPerk": false,
+        "id": "5390e7a5498e1eb4652bffe4",
+        "location": {
+            "address": "Holzmarktstr. 25",
+            "cc": "DE",
+            "city": "Berlin",
+            "country": "Deutschland",
+            "formattedAddress": [
+                "Holzmarktstr. 25",
+                "10243 Berlin",
+                "Deutschland"
+            ],
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 52.51186304262993,
+                    "lng": 13.425768449360852
+                }
+            ],
+            "lat": 52.51186304262993,
+            "lng": 13.425768449360852,
+            "postalCode": "10243",
+            "state": "Berlin"
+        },
+        "name": "Kater Blau",
+        "referralId": "v-1549903921"
+    },
+    {
+        "categories": [
+            {
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/nightclub_",
+                    "suffix": ".png"
+                },
+                "id": "4bf58dd8d48988d11f941735",
+                "name": "Nightclub",
+                "pluralName": "Nightclubs",
+                "primary": true,
+                "shortName": "Nightclub"
+            }
+        ],
+        "hasPerk": false,
+        "id": "4ae778a5f964a520a5ab21e3",
+        "location": {
+            "address": "Am Wriezener Bahnhof",
+            "cc": "DE",
+            "city": "Berlin",
+            "country": "Deutschland",
+            "formattedAddress": [
+                "Am Wriezener Bahnhof",
+                "10243 Berlin",
+                "Deutschland"
+            ],
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 52.51127097123939,
+                    "lng": 13.443295955657959
+                }
+            ],
+            "lat": 52.51127097123939,
+            "lng": 13.443295955657959,
+            "neighborhood": "Friedrichshain",
+            "postalCode": "10243"
+        },
+        "name": "Berghain / Panorama Bar",
+        "referralId": "v-1549903921"
+    },
+    {
+        "categories": [
+            {
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                    "suffix": ".png"
+                },
+                "id": "4bf58dd8d48988d116941735",
+                "name": "Bar",
+                "pluralName": "Bars",
+                "primary": true,
+                "shortName": "Bar"
+            }
+        ],
+        "hasPerk": false,
+        "id": "4afe18cef964a520e42d22e3",
+        "location": {
+            "address": "Wühlischstr. 43",
+            "cc": "DE",
+            "city": "Berlin",
+            "country": "Deutschland",
+            "crossStreet": "Seumestr.",
+            "formattedAddress": [
+                "Wühlischstr. 43 (Seumestr.)",
+                "10245 Berlin",
+                "Deutschland"
+            ],
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 52.50865965561908,
+                    "lng": 13.461249641540403
+                }
+            ],
+            "lat": 52.50865965561908,
+            "lng": 13.461249641540403,
+            "postalCode": "10245",
+            "state": "Berlin"
+        },
+        "name": "Süß war gestern",
+        "referralId": "v-1549903921"
+    },
+    {
+        "categories": [
+            {
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                    "suffix": ".png"
+                },
+                "id": "4bf58dd8d48988d16d941735",
+                "name": "Café",
+                "pluralName": "Cafés",
+                "primary": true,
+                "shortName": "Café"
+            }
+        ],
+        "hasPerk": false,
+        "id": "4af49b4af964a52048f421e3",
+        "location": {
+            "address": "Skalitzer Str. 46A",
+            "cc": "DE",
+            "city": "Berlin",
+            "country": "Deutschland",
+            "formattedAddress": [
+                "Skalitzer Str. 46A",
+                "10997 Berlin",
+                "Deutschland"
+            ],
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 52.49912861276276,
+                    "lng": 13.430566300836764
+                }
+            ],
+            "lat": 52.49912861276276,
+            "lng": 13.430566300836764,
+            "postalCode": "10997",
+            "state": "Berlin"
+        },
+        "name": "Mano Cafe",
+        "referralId": "v-1549903921"
+    },
+    {
+        "categories": [
+            {
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/falafel_",
+                    "suffix": ".png"
+                },
+                "id": "56aa371be4b08b9a8d573529",
+                "name": "Israeli Restaurant",
+                "pluralName": "Israeli Restaurants",
+                "primary": true,
+                "shortName": "Israeli"
+            }
+        ],
+        "hasPerk": false,
+        "id": "5650e762498e0883bacecfbc",
+        "location": {
+            "address": "Gormannstr. 17",
+            "cc": "DE",
+            "city": "Berlin",
+            "country": "Deutschland",
+            "crossStreet": "Zehdenickerstr.",
+            "formattedAddress": [
+                "Gormannstr. 17 (Zehdenickerstr.)",
+                "10119 Berlin",
+                "Deutschland"
+            ],
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 52.53048639527529,
+                    "lng": 13.405964488574275
+                }
+            ],
+            "lat": 52.53048639527529,
+            "lng": 13.405964488574275,
+            "neighborhood": "Prenzlauer Berg",
+            "postalCode": "10119",
+            "state": "Berlin"
+        },
+        "name": "Yafo in Berlin",
+        "referralId": "v-1549903921"
+    },
+    {
+        "categories": [
+            {
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                    "suffix": ".png"
+                },
+                "id": "4bf58dd8d48988d116941735",
+                "name": "Bar",
+                "pluralName": "Bars",
+                "primary": true,
+                "shortName": "Bar"
+            }
+        ],
+        "hasPerk": false,
+        "id": "4cc4a6f4be40a35dd3ec7f4c",
+        "location": {
+            "address": "Weichselstr. 44",
+            "cc": "DE",
+            "city": "Berlin",
+            "country": "Deutschland",
+            "formattedAddress": [
+                "Weichselstr. 44",
+                "12059 Berlin",
+                "Deutschland"
+            ],
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 52.48734695430943,
+                    "lng": 13.436778927769645
+                }
+            ],
+            "lat": 52.48734695430943,
+            "lng": 13.436778927769645,
+            "postalCode": "12059",
+            "state": "Berlin"
+        },
+        "name": "Nathanja & Heinrich",
+        "referralId": "v-1549903921",
+        "venuePage": {
+            "id": "76500925"
+        }
+    },
+    {
+        "categories": [
+            {
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/nightclub_",
+                    "suffix": ".png"
+                },
+                "id": "4bf58dd8d48988d11f941735",
+                "name": "Nightclub",
+                "pluralName": "Nightclubs",
+                "primary": true,
+                "shortName": "Nightclub"
+            }
+        ],
+        "hasPerk": false,
+        "id": "4c3a1f89ae2da593fcb603c6",
+        "location": {
+            "address": "Hauptstr. 15",
+            "cc": "DE",
+            "city": "Berlin",
+            "country": "Deutschland",
+            "formattedAddress": [
+                "Hauptstr. 15",
+                "10317 Berlin",
+                "Deutschland"
+            ],
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 52.49300036751654,
+                    "lng": 13.491161228668023
+                }
+            ],
+            "lat": 52.49300036751654,
+            "lng": 13.491161228668023,
+            "postalCode": "10317",
+            "state": "Berlin"
+        },
+        "name": "Sisyphos",
+        "referralId": "v-1549903921"
+    },
+    {
+        "categories": [
+            {
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/nightclub_",
+                    "suffix": ".png"
+                },
+                "id": "4bf58dd8d48988d11f941735",
+                "name": "Nightclub",
+                "pluralName": "Nightclubs",
+                "primary": true,
+                "shortName": "Nightclub"
+            }
+        ],
+        "hasPerk": false,
+        "id": "4adcda79f964a5207b4621e3",
+        "location": {
+            "address": "Rollbergstr. 26",
+            "cc": "DE",
+            "city": "Berlin",
+            "country": "Deutschland",
+            "formattedAddress": [
+                "Rollbergstr. 26",
+                "12053 Berlin",
+                "Deutschland"
+            ],
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 52.47944881,
+                    "lng": 13.43312668
+                }
+            ],
+            "lat": 52.47944881,
+            "lng": 13.43312668,
+            "neighborhood": "Karl-Marx-Straße",
+            "postalCode": "12053",
+            "state": "Berlin"
+        },
+        "name": "SchwuZ",
+        "referralId": "v-1549903921",
+        "venuePage": {
+            "id": "67751609"
+        }
+    },
+    {
+        "categories": [
+            {
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
+                    "suffix": ".png"
+                },
+                "id": "4bf58dd8d48988d11e941735",
+                "name": "Cocktail Bar",
+                "pluralName": "Cocktail Bars",
+                "primary": true,
+                "shortName": "Cocktail"
+            }
+        ],
+        "hasPerk": false,
+        "id": "4b0a9c10f964a520952523e3",
+        "location": {
+            "address": "Torstr. 89",
+            "cc": "DE",
+            "city": "Berlin",
+            "country": "Deutschland",
+            "crossStreet": "Gormannstr.",
+            "formattedAddress": [
+                "Torstr. 89 (Gormannstr.)",
+                "10119 Berlin",
+                "Deutschland"
+            ],
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 52.52960691358462,
+                    "lng": 13.405498421887623
+                }
+            ],
+            "lat": 52.52960691358462,
+            "lng": 13.405498421887623,
+            "postalCode": "10119",
+            "state": "Berlin"
+        },
+        "name": "Neue Odessa Bar",
+        "referralId": "v-1549903921"
+    },
+    {
+        "categories": [
+            {
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/beergarden_",
+                    "suffix": ".png"
+                },
+                "id": "4bf58dd8d48988d117941735",
+                "name": "Beer Garden",
+                "pluralName": "Beer Gardens",
+                "primary": true,
+                "shortName": "Beer Garden"
+            }
+        ],
+        "hasPerk": false,
+        "id": "51bb5e86498e3e2a6276f20f",
+        "location": {
+            "address": "Karl-Marx-Str. 66",
+            "cc": "DE",
+            "city": "Berlin",
+            "country": "Deutschland",
+            "formattedAddress": [
+                "Karl-Marx-Str. 66",
+                "12043 Berlin",
+                "Deutschland"
+            ],
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 52.48209623936856,
+                    "lng": 13.431419613103948
+                }
+            ],
+            "lat": 52.48209623936856,
+            "lng": 13.431419613103948,
+            "neighborhood": "Karl-Marx-Straße",
+            "postalCode": "12043",
+            "state": "Berlin"
+        },
+        "name": "Klunkerkranich",
+        "referralId": "v-1549903921"
+    },
+    {
+        "categories": [
+            {
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/nightclub_",
+                    "suffix": ".png"
+                },
+                "id": "4bf58dd8d48988d11f941735",
+                "name": "Nightclub",
+                "pluralName": "Nightclubs",
+                "primary": true,
+                "shortName": "Nightclub"
+            }
+        ],
+        "hasPerk": false,
+        "id": "4c61681eb6f3be9af1916173",
+        "location": {
+            "address": "Köpenicker Str. 76",
+            "cc": "DE",
+            "city": "Berlin",
+            "country": "Deutschland",
+            "formattedAddress": [
+                "Köpenicker Str. 76",
+                "10179 Berlin",
+                "Deutschland"
+            ],
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 52.51126316424497,
+                    "lng": 13.41675133666745
+                }
+            ],
+            "lat": 52.51126316424497,
+            "lng": 13.41675133666745,
+            "postalCode": "10179",
+            "state": "Berlin"
+        },
+        "name": "KitKatClub",
+        "referralId": "v-1549903921"
+    },
+    {
+        "categories": [
+            {
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/nightclub_",
+                    "suffix": ".png"
+                },
+                "id": "4bf58dd8d48988d11f941735",
+                "name": "Nightclub",
+                "pluralName": "Nightclubs",
+                "primary": true,
+                "shortName": "Nightclub"
+            }
+        ],
+        "hasPerk": false,
+        "id": "4b88564af964a52038f031e3",
+        "location": {
+            "address": "Schönhauser Allee 36",
+            "cc": "DE",
+            "city": "Berlin",
+            "country": "Deutschland",
+            "formattedAddress": [
+                "Schönhauser Allee 36",
+                "10435 Berlin",
+                "Deutschland"
+            ],
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 52.53945053627617,
+                    "lng": 13.414080779505635
+                }
+            ],
+            "lat": 52.53945053627617,
+            "lng": 13.414080779505635,
+            "postalCode": "10435",
+            "state": "Berlin"
+        },
+        "name": "SODA Club",
+        "referralId": "v-1549903921"
+    }
+]
+    }
+}
